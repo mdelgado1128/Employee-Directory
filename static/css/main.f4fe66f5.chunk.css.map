@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/app.css"],"names":[],"mappings":"AAIA,YACE,iBACF,CACA,QACA,iBAEA","file":"main.f4fe66f5.chunk.css","sourcesContent":[".heading {\ntext-align: center;\n}\n\nh1 {\n  text-align: center;\n}\n.table1 {\nfont-size: x-large;\n\n}"]}
